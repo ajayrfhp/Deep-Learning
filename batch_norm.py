@@ -1,3 +1,4 @@
+import numpy as np
 class BatchNormalizedLayer():
     """Layer implementing an batch normalization of its inputs.
 
